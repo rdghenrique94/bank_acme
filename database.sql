@@ -7,9 +7,9 @@ CREATE TABLE IF NOT EXISTS `usuarios`(
     `password`VARCHAR(255) NOT NULL
 );
 INSERT INTO `usuarios`(`username`, `password`)
-VALUES('gabrieloliveira1@gmail.com', '12345678');
+VALUES('rdghenrique@gmail.com', '12345678');
 INSERT INTO `usuarios`(`username`, `password`)
-VALUES('gabrieloliveira2@gmail.com', '12345678');
+VALUES('rodrigohrq@gmail.com', '12345678');
 INSERT INTO `usuarios`(`username`, `password`)
-VALUES('gabrieloliveira3@gmail.com', '12345678');
+VALUES('rodrigo@gmail.com', '12345678');
 COMMIT;
